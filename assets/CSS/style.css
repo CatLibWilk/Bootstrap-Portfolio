@@ -105,3 +105,10 @@ img{
     position: absolute;
     bottom: 0;
 }
+
+@media screen and (max-width: 768px) {
+    .header-name-col{
+        width: 100%;
+        padding: 0;
+    }
+}
